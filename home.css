@@ -3,9 +3,16 @@
     margin: 0px;
     padding: 0px;
 }
+body{
+    background-color: black;
+}
 
 nav{
     background-color: red;
     padding: 15px;
     margin: 0px;
+}
+
+input.pesquisa{
+    position: relative;
 }
